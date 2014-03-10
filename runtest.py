@@ -2,7 +2,7 @@
 import unittest
 import bottle
 
-class tests (unittest.Case):
+class tests (unittest.TestCase):
     def test1(self):
         pass
 
