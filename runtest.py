@@ -1,6 +1,6 @@
 #in this file we shall test bottle.py
 import unittest
-import bottle
+import bottles
 
 class tests (unittest.TestCase):
     def test1(self):
