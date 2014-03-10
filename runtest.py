@@ -1,4 +1,4 @@
-#in this file we shall tes bottle.py
+#in this file we shall test bottle.py
 import unittest
 import bottle
 
