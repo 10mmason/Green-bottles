@@ -9,3 +9,7 @@ class tests (unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+def test1(self):
+    song_expected_last_word = 'floor'
+    song_actual_last_word = bottles.song
